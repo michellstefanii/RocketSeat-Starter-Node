@@ -1,0 +1,20 @@
+{
+  "name": "RocketSeat-Starter-Node",
+  "version": "1.0.0",
+  "description": "Curso de NodeJS Starter RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michellstefanii/RocketSeat-Starter-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michellstefanii/RocketSeat-Starter-Node/issues"
+  },
+  "homepage": "https://github.com/michellstefanii/RocketSeat-Starter-Node#readme"
+}
